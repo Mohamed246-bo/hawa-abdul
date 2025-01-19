@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: hsl(0, 0%, 75%);
+}
+header {
+    margin: auto;
+    text-align: center;
+    color: blue;
+    
+}
+button{
+    color: rgb(243, 243, 248);
+    background-color: blueviolet;
+
+}
+table{
+    border-radius: 10px;
+    text-align: center;
+    border: rgb(5, 5, 156)
+}
+h2{
+    text-align: center;
+    width: 300px;
+    margin: 0%;
+    padding: 10px 20px;
+    box-sizing: content-box;
+    background-color: blue;
+    font-size: 20px;
+    font-weight: 700;
+    border-top-left-radius:  10px;
+    border-top-right-radius: 10px;
+    background-size: auto;
+}
+img{
+    max-width: 300px;
+    max-height: 1500px;
+
+}
+h4{
+    
+    text-align: center;
+    width: 300px;
+    margin: 0%;
+    padding: 10px 20px;
+    box-sizing: content-box;
+    background-color: blue;
+    font-size: 20px;
+    font-weight: 700;
+    border-top-left-radius:  10px;
+    border-top-right-radius: 10px;
+    background-size: auto;
+
+}
+div{
+    background-color: wheat ;
+    opacity: 50px;
+}
+h5{
+    margin: 50%;
+    width: 300px;
+    margin: 0%;
+    padding: 10px 20px;
+    box-sizing: content-box;
+    background-color: blue;
+    font-size: 20px;
+    font-weight: 700;
+    border-top-left-radius:  10px;
+    border-top-right-radius: 10px;
+    background-size: auto;
+    font-size: larger;
+}
+td {
+    color: blue;
+    border-color: brown;
+}
